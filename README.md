@@ -32,4 +32,4 @@ THEN I am able to successfully create, update, and delete data in my database
 * https://github.com/vcapella/13_E-commerce-back-end
 
 ## Walkthrough
-* https://watch.screencastify.com/v/hD4R7xO8Y8TwTzpfym4z
+* https://watch.screencastify.com/v/7rd4Ni9kHp0gjS7fXbWg
